@@ -23,5 +23,3 @@ This dataset can be used for:
 ## Tools
 The dataset was generated using the [FaceTorch](https://github.com/facetorch) library.
 
-## License
-Please refer to the license file for details.
