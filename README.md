@@ -2,8 +2,11 @@
 
 ## Description
 This repository contains a dataset of 3,741 facial images and corresponding anchor points (keypoints), generated using [FaceTorch](https://github.com/facetorch). The dataset is a subset of the well-known [Faces in the Wild](http://vis-www.cs.umass.edu/lfw/) dataset, structured for use in tasks such as facial recognition, pose estimation, and machine learning applications involving facial feature detection.
+
+
 ![Sample Image](Dataset/Bill_Gates/Bill_Gates15.jpg)
-![Sample Image](https://imgur.com/C5iqogf)
+
+![Sample Image](https://i.imgur.com/C5iqogf.png)
 
 ## Dataset Structure
 - **Images**: 3,741 images from the Faces in the Wild dataset.
