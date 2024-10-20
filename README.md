@@ -20,7 +20,6 @@ This repository contains a dataset of 3,741 facial images and corresponding anch
 ## Usage
 This dataset can be used for:
 - Training machine learning models for facial recognition.
-- Pose estimation.
 - Detecting facial landmarks.
   
 ## Tools
