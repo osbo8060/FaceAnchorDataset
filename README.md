@@ -12,7 +12,7 @@ This repository contains a dataset of 3,741 facial images and corresponding anch
 - Each row corresponds to an image.
 - **Columns**:
   - 68 keypoints
-  - For each keypoint: X, Y, Z coordinates (204 columns in total).
+  - For each keypoint: X, Y, Z coordinates (204 columns in total, all X values, then Y values, then Z values).
 
 ## Usage
 This dataset can be used for:
